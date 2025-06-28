@@ -9,4 +9,4 @@ I'm a high schooler interested in
 Learn more about me [here](https://samuel-asefa.github.io)!
 
 ### My Tools:
-[![My Tools](https://skillicons.dev/icons?i=html,css,js,py,java,cpp,cs,go,swift,lua,unity,flutter,nodejs,nextjs,react&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,swift,svelte,react,flutter,go,firebase,unity&theme=dark)](https://skillicons.dev)
