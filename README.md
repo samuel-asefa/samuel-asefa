@@ -3,7 +3,7 @@
 I'm a high schooler interested in
 
 - 🧠 computer science and electrical engineering (ai/ml, algorithms, robotics)
-- 🛠️ creating clean software and hardware projects
+- 🛠️ creating useful software, hardware, and research projects
 - 🏆 competing in robotics and science competitions
 
 Learn more about me [here](https://samuelasefa.vercel.app)!
